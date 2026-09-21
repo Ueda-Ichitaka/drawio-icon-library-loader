@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+
+./drawio-symbol-libraries
+
+
 # Distribution / packaging
 .Python
 build/
